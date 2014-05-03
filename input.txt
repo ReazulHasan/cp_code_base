@@ -1,0 +1,9 @@
+cin>>n;
+ a[0]=n;
+char c;
+while((c=getchar())==' ')
+{
+cin>>n;
+a[i]=n;
+i++;
+}
